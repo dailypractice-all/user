@@ -4,7 +4,7 @@ trigger:
 pool: Roboshop-workstation
 
 variables:
-  COMPONENT: cart
+  COMPONENT: user
 
 resources:
   repositories:
